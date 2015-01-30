@@ -1,5 +1,5 @@
 /**
- * This is a bit more elabore version of a module register that automatically
+ * This is a bit more elaborate version of a module register that automatically
  * resolves dependencies when building modules. A module can define dependencies
  * to other modules or the three static dependencies: window, document, undefined.
  *
